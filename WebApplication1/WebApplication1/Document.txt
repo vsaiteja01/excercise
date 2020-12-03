@@ -1,0 +1,1 @@
+this project uses mvc with database first approach
